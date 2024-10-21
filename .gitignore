@@ -1,0 +1,13 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore user-specific files
+*.user
+.vs/
+
+wwwroot/
+
